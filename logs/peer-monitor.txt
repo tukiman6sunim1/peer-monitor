@@ -25,3 +25,4 @@
 00:49:09 | segment=449882
 00:49:10 | weight=2577
 00:49:14 | proof=afce03ca24223bed8a68b938cbb7890f8fb9e61bd61d87749c5a835d3eade7a8
+01:49:09 | segment=241346
