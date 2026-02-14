@@ -158,3 +158,4 @@
 20:49:10 | weight=3702
 20:49:14 | proof=37e85bea9ba535ed370eb738602f11aacd4eb8e7f958c36d15f3bbb8d19bcafe
 21:49:08 | segment=932177
+21:49:10 | weight=8949
