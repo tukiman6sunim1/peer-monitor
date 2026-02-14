@@ -97,3 +97,4 @@
 00:49:08 | segment=719720
 00:49:10 | weight=9795
 00:49:14 | proof=714b5035c145c6e37eabfbad6d697d6d76e0dfcfc968cc398aa7dde55396fc2a
+01:49:11 | segment=283848
